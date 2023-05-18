@@ -1,0 +1,28 @@
+[
+    {
+    "SignUpCase":"Pass",
+    "fullname":"Training",
+    "email":"TerTesting@gmail.com",
+    "password":"password"
+
+    },
+    { 
+    "SignUpCase":"Fail",                
+    "fullname":"Training",
+    "email" :"TerTesting@gmail.com",
+    "password":"password"
+    },
+    
+    {"LoginCase":"Pass",
+    "email" :"Testing@gmail.com",
+    "password":"password"
+    },
+    {
+    "LoginCase":"Fail",
+    "email" :"Julf@gmail.com",
+    "password":"admin"
+    }
+
+    
+]
+
